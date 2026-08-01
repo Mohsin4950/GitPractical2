@@ -1,1 +1,2 @@
-console.log("test passed");
+// console.log("test passed");
+throw new Error("Test Failed");
